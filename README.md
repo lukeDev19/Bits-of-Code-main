@@ -1,4 +1,4 @@
-## Bits-0f-C0de
+## Bits-of-Code
 
 ## Writing own blogs made easier for everyone!
 
